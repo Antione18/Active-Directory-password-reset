@@ -6,7 +6,7 @@
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8a140555-e3d6-43db-8181-bece4a2b9496" />
 </p>
 <p>
-After going to windows start,downloading server manager I can go to tool and open Active Directory users and computers. 
+After going to windows start,downloading server manager I can go to tools and open Active Directory users and computers. 
 </p>
 <br />
 
