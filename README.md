@@ -17,9 +17,9 @@ After going to windows start,downloading server manager I can go to tools and op
 <p>
 I have access to AD users and computers, I would need to get my admin login from my job when hired in order to start troubleshootings users passwords, other then that I have the process of adding,fidning users and ultimately reseting their passwords. 
 <p> 
-Adding users
+Adding users:
 <p> 
-Finding users
+Finding users: 
 </p><p> </p>
 Reseting users passwords:    <p> </p>                                                                                 1. Right click the users name   <p> </p>                                                                              
 2. Click reset password <p> </p>
