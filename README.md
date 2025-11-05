@@ -2,7 +2,7 @@
 # Summary/Description  
 jknkvnvnrlvnrlj
 # Technologies & Enviorments used 
-jrkfrbkrkf <p/> 
+1. Macbook Pro running Windows 10 <p/> 
 # Demonstration Steps & Media
 <img width="660" height="358" alt="image" src="https://github.com/user-attachments/assets/201cdaa5-3236-4e54-b333-60689d248dc6" /> <p/> 
 kjnvkbvkbvrvrbvkrjbr <p/> 
