@@ -33,3 +33,4 @@
 
 # Step 7: install VCredist.x86 
 - I double click the VC file, 
+<img width="676" height="432" alt="12  installing VC" src="https://github.com/user-attachments/assets/dc86130a-ec91-4aa6-95e5-caeccc95cdec" />
