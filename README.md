@@ -42,5 +42,5 @@
 <img width="612" height="461" alt="15  mySQL 5 5 62 wizard configuration" src="https://github.com/user-attachments/assets/be72f8e7-777a-4ec8-9b43-b24e5b7c41cd" />
 
 # Step 9: IIS and osTicket web server configuration 
-- I first go to windows start, type IIS, run as admin, I then register PHP from IIS, 
+- I first go to windows start, type IIS, run as admin, I then register PHP from IIS, to register I double click PHP, click register new, and click the three dots to select the PHP directory I created earlier and the I register it. 
 
