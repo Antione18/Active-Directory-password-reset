@@ -16,3 +16,20 @@
 <img width="690" height="466" alt="5  enabling CGI " src="https://github.com/user-attachments/assets/6df24882-4267-4ded-9e65-de1d71abd601" />
 
 # Step 3: Install PHP Manager for IIS
+- I open the osTicket files as the course video says, I click on PHP Manager, click agree on a few things and install.
+<img width="862" height="613" alt="8  instaled PHP" src="https://github.com/user-attachments/assets/8761b1e3-f68b-4738-8779-48b84d077be6" />
+
+# Step 4: Install Rewrite Modual 
+- From inside the files I clicked on Rewrite and installed it.
+<img width="816" height="543" alt="9  installed rewrite " src="https://github.com/user-attachments/assets/7d3d4c3e-87f6-4860-8489-b4ba7d142d94" />
+
+# Step 5: Create a Directory for PHP
+- I opened file explorer and went to the C folder and made a folder for PHP.
+<img width="418" height="526" alt="10  creating directory for PHP C folder" src="https://github.com/user-attachments/assets/0040ad48-aa01-4192-a9a5-b33289ee89ad" />
+
+# Step 6: Unzip PHP 7.3 folder into the Directory 
+- From the osTicket files I right click on the PHP 7.3 file, click extract all, then I go to browse to select the PHP folder to exctact the files into.
+<img width="820" height="540" alt="11  extracting PHP 7 3 files into PHP directory" src="https://github.com/user-attachments/assets/7362562e-c5a6-4c16-a5be-aefb81d7e97c" />
+
+# Step 7: install VCredist.x86 
+- I double click the VC file, 
