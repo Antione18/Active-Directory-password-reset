@@ -31,6 +31,16 @@
 - From the osTicket files I right click on the PHP 7.3 file, click extract all, then I go to browse to select the PHP folder to exctact the files into.
 <img width="820" height="540" alt="11  extracting PHP 7 3 files into PHP directory" src="https://github.com/user-attachments/assets/7362562e-c5a6-4c16-a5be-aefb81d7e97c" />
 
-# Step 7: install VCredist.x86 
-- I double click the VC file, 
-<img width="676" height="432" alt="12  installing VC" src="https://github.com/user-attachments/assets/dc86130a-ec91-4aa6-95e5-caeccc95cdec" />
+# Step 7: Install VCredist.x86 
+- I double click the VC file and install.  
+<img width="676" height="432" alt="12  installing VC" src="https://github.com/user-atttachments/assets/dc86130a-ec91-4aa6-95e5-caeccc95cdec" />
+
+# Step 8: Install MySQL5.5.62
+- I double click the MySQL5.5.62 files, install them, then I do the configuration of wizard and make the password.
+<img width="624" height="462" alt="13  installed mySQL 5 5 62" src="https://github.com/user-attachments/assets/567208f3-6fa0-4e75-924b-262a39e0a778" />
+<img width="628" height="534" alt="14  configuring wizerd making the password" src="https://github.com/user-attachments/assets/9acc3f1f-63ac-4ba6-adec-d80167ee1204" />
+<img width="612" height="461" alt="15  mySQL 5 5 62 wizard configuration" src="https://github.com/user-attachments/assets/be72f8e7-777a-4ec8-9b43-b24e5b7c41cd" />
+
+# Step 9: IIS and osTicket web server configuration 
+- I first go to windows start, type IIS, run as admin, I then register PHP from IIS, 
+
