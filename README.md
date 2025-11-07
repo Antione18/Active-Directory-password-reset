@@ -99,7 +99,7 @@
 <img width="806" height="547" alt="31  " src="https://github.com/user-attachments/assets/c419a3ed-12d7-43e9-b545-b6c310320476" />
 
 # Step 9, Step 8: creating data base called exactly osTicket and finish
-- Firs hiedesql right click the dolphin image, make new, type osTicket.
+- First I open hiedesql,right click the dolphin image, create new, type osTicket, and fill in the rest of the osTicket database setting and finish the installation of osTicket. 
 <img width="625" height="635" alt="33  hide sql " src="https://github.com/user-attachments/assets/52d86fa4-920b-4503-a568-1091490609b6" />
 <img width="403" height="323" alt="34  " src="https://github.com/user-attachments/assets/56b08efc-53f7-4f59-826a-9a5b02216fd6" />
 <img width="669" height="444" alt="35  finishing os browserr" src="https://github.com/user-attachments/assets/2f9343c0-6bf7-403e-b24a-62f71571da93" />
