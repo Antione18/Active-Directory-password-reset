@@ -42,7 +42,8 @@
 <img width="612" height="461" alt="15  mySQL 5 5 62 wizard configuration" src="https://github.com/user-attachments/assets/be72f8e7-777a-4ec8-9b43-b24e5b7c41cd" />
 
 # Step 9: IIS and osTicket web server configuration 
-Step one: registering a new PHP
+
+# Step 9, Step 1: registering a new PHP
 - I first go to windows start, type IIS, run as admin, I then register PHP from IIS, to register I double click PHP, click register new, and click the three dots to select the PHP directory I created earlier and the I register it. 
 <img width="831" height="615" alt="16  iss admin " src="https://github.com/user-attachments/assets/8a7642c2-587f-4e5f-bf5b-45381dfbaa11" />
 <img width="802" height="592" alt="17  regitering pHP from IIS" src="https://github.com/user-attachments/assets/627d2b52-935e-4100-8e18-036ccaf8c3b8" />
@@ -53,10 +54,14 @@ Step one: registering a new PHP
 - first inside IIS on the left I click on the machine thats running my computer, then on the right I click stop and once it has stoped I click start. <p> 
 <img width="989" height="387" alt="20  stop and start iis" src="https://github.com/user-attachments/assets/ebc8c6ca-c999-48ea-90f9-c912aaf3c170" />
 
-# Step 9, Step 3; "Install osTicket" 
-- First I go inside the osTicket files, I unzip the osTicket folder which is inside the files, to do that I right click to extract, once it is extracted I copy the upload folder into the wwwroot folder, then the c folder, then Inetpub, wwwroot, I open another file explorer to upload folder drag it into the wwwroot and rename it to exactly "osTicket" 
+# Step 9, Step 3: "Install osTicket" 
+- First I go inside the osTicket files, I unzip the osTicket folder which is inside the files, to do that I right click to extract, once it is extracted I copy the upload folder into the wwwroot folder, then the c folder, then Inetpub, wwwroot, I open another file explorer to upload folder drag it into the wwwroot and rename it to exactly "osTicket" and after thatI reload IIS by stoping and starting it like I did in step 2. 
 <img width="680" height="490" alt="21  extracting osticket " src="https://github.com/user-attachments/assets/58216272-df59-4d74-b8d3-8c31f2a69ec9" />
 <img width="1138" height="562" alt="22  upload folder into wwwroot folder" src="https://github.com/user-attachments/assets/983167d9-5590-4018-a665-6252b295817e" />
 <img width="429" height="281" alt="23  rename uplaod folder" src="https://github.com/user-attachments/assets/d0dd98e9-1cec-4678-a026-d7aed05419f7" />
 
-
+# Step 9, Step 4: Loading the osTicket site and enabling requirments
+- In IIS I go to sites, defult, osTicket and on the right click browse 80 and the site pops up. next to enable requirments I first go back to IIS, sites, defult, osticket, double click PHP manager, then enable or disable extesntion, then I can go through the list and enable what needs to be enabled. 
+<img width="1054" height="665" alt="24  osticket site" src="https://github.com/user-attachments/assets/adb1f4c1-1230-4664-bee1-14202580e286" />
+<img width="610" height="505" alt="25  enableing things" src="https://github.com/user-attachments/assets/fd6924f3-fbc7-4190-8f52-88df73f1f065" />
+<img width="478" height="483" alt="26  requirments changes" src="https://github.com/user-attachments/assets/2e81c297-b1d9-4c75-a441-d4cf589ee665" />
