@@ -65,3 +65,6 @@
 <img width="1054" height="665" alt="24  osticket site" src="https://github.com/user-attachments/assets/adb1f4c1-1230-4664-bee1-14202580e286" />
 <img width="610" height="505" alt="25  enableing things" src="https://github.com/user-attachments/assets/fd6924f3-fbc7-4190-8f52-88df73f1f065" />
 <img width="478" height="483" alt="26  requirments changes" src="https://github.com/user-attachments/assets/2e81c297-b1d9-4c75-a441-d4cf589ee665" />
+
+# Step 9, Step 5: renaming osTicket-Config-PHP
+- First I go to File explorer, C folder, Inetpub, wwroot folder, osTicket, include, and the scroll to ost-sampleconfig and rename it to ost-config.php. 
