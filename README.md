@@ -1,6 +1,6 @@
 # osTicket Installation
 # Summary/Description  
-- jknkvnvnrlvnrlj
+- In the project I follow the first hands-on video for osTicket. I am installing all of the prerequisits that are required for osTicket to work. Down below is all the photos and expplanation of steps for this project. 
 # Technologies & Enviorments used 
 - Macbook Pro running Windows 10 
 # Demonstration Steps & Media
