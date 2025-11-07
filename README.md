@@ -1,14 +1,31 @@
 # osTicket Installation
 # Summary/Description  
-- In the project I follow the first hands-on video for osTicket. I am installing all of the prerequisits that are required for osTicket to work. Down below is all the photos and explanation of steps for this project. 
+- In the project I follow the first hands-on video for osTicket. I am installing all of the prerequisits that are required for osTicket to work. Down below is all the photos and explanation of steps for this project.
+- Step 1: Download the osTicket Files
+- Step 2: Enable IIS in Windows with CGI Installed
+- Step 3: Install PHP Manager for IIS
+- Step 4: Instal Rewrite Modual
+- Step 5: Create a Directory for PHP
+- Step 6: Unzip PHP 7.3 folder into the Directory
+- Step 7: Install VCredist.x86
+- Step 8: Install MySQL5.5.62
+- Step 9: IIS and osTicket web server configuration
+- Step 9, Step 1: registering a new PHP
+- Step 9, Step 2: Reload IIS (stop and start the server)
+- Step 9, Step 3: "Install osTicket"
+- Step 9, Step 4: Loading the osTicket site and enabling requirments
+- Step 9, Step 5: renaming to osTicket-Config-PHP and assinging permission for osTicket to access it
+- Step 9, Step 6: Setting up osTicket in Browser
+- Step 9, Step 7: HiedeSQL 
+- Step 9, Step 8: creating data base called exactly osTicket and finish
 # Technologies & Enviorments used 
 - Macbook Pro running Windows 10 
 # Demonstration Steps & Media
-# Step 1: Download the osTicket files
+# Step 1: Download the osTicket Files
 - After downloading the osTicket files on to my desktop from the checklist, I followed the video and extracted the folder with the actual documents from thezip folder and put that on my desktop then deleting the zip folder as the video said to.  
 <img width="1026" height="364" alt="Screenshot 2025-11-06 123731" src="https://github.com/user-attachments/assets/415271ab-9db3-46c2-a604-0a14aac0712e" /> 
 
-# Step 2: Enable IIS in Windows with CGI installed 
+# Step 2: Enable IIS in Windows with CGI Installed 
 - To enabe IIS and install cgi I first went to the start menu to control panal, then to programs, once programs was open on the left side of the pop up I clicked "Turn Windows features on or off" after clicking that another pop up came up where I clicked the box to turn on Internet Information services. from there to install CGI I clicked the plus to expand IIS, clicked the plus to expand World Wide Web Services, clicked the plus to expand Application Development Features, and finally checked the CGI box to enable it. </p> 
 <img width="1084" height="668" alt="2   CONTROL PANAL" src="https://github.com/user-attachments/assets/6d54bfe7-b17d-4955-8cf2-46156c495f4f" /> 
 <img width="1082" height="651" alt="3  control panal programs" src="https://github.com/user-attachments/assets/f8513bcf-54ef-4174-83a7-2047d377b6da" /> 
@@ -72,7 +89,7 @@
 <img width="586" height="232" alt="27  name change" src="https://github.com/user-attachments/assets/cf6b9f66-258c-4df7-93f7-565e0f394074" />
 <img width="591" height="513" alt="28  osTicket permissions" src="https://github.com/user-attachments/assets/77243f54-3649-4dbc-863e-f24a9ac0346a" />
 
-# Step 9, Step 6: setting up osTicket in browser
+# Step 9, Step 6: Setting up osTicket in Browser
 - Now I am filling out the osTicket Installation page.
   <img width="831" height="601" alt="29   setting up osticket browser" src="https://github.com/user-attachments/assets/1baa83f1-3c75-4afe-b1ce-c1dae78daf3a" />
 
@@ -81,7 +98,7 @@
 <img width="823" height="603" alt="30  this heidesql" src="https://github.com/user-attachments/assets/ef535bd6-d090-4b42-9403-90bea7b9796e" />
 <img width="806" height="547" alt="31  " src="https://github.com/user-attachments/assets/c419a3ed-12d7-43e9-b545-b6c310320476" />
 
-# Step 9) Step 8: creating data base called exactly osTicket and finish
+# Step 9, Step 8: creating data base called exactly osTicket and finish
 - Firs hiedesql right click the dolphin image, make new, type osTicket.
 <img width="625" height="635" alt="33  hide sql " src="https://github.com/user-attachments/assets/52d86fa4-920b-4503-a568-1091490609b6" />
 <img width="403" height="323" alt="34  " src="https://github.com/user-attachments/assets/56b08efc-53f7-4f59-826a-9a5b02216fd6" />
