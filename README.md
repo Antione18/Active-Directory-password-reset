@@ -42,13 +42,21 @@
 <img width="612" height="461" alt="15  mySQL 5 5 62 wizard configuration" src="https://github.com/user-attachments/assets/be72f8e7-777a-4ec8-9b43-b24e5b7c41cd" />
 
 # Step 9: IIS and osTicket web server configuration 
-Step one
+Step one: registering a new PHP
 - I first go to windows start, type IIS, run as admin, I then register PHP from IIS, to register I double click PHP, click register new, and click the three dots to select the PHP directory I created earlier and the I register it. 
 <img width="831" height="615" alt="16  iss admin " src="https://github.com/user-attachments/assets/8a7642c2-587f-4e5f-bf5b-45381dfbaa11" />
 <img width="802" height="592" alt="17  regitering pHP from IIS" src="https://github.com/user-attachments/assets/627d2b52-935e-4100-8e18-036ccaf8c3b8" />
 <img width="807" height="527" alt="18  new PHP version " src="https://github.com/user-attachments/assets/79a89942-519a-4ee4-8e51-b88181991954" />
-<img width="694" height="385" alt="19  php file choose" src="https://github.com/user-attachments/assets/bf0f597b-aa21-4f61-b321-ddbe05e405f5" /> 
+<img width="694" height="385" alt="19  php file choose" src="https://github.com/user-attachments/assets/bf0f597b-aa21-4f61-b321-ddbe05e405f5" /> <p> 
 
+# Step 9, Step 2: Reload IIS (stop and start the server)
+- first inside IIS on the left I click on the machine thats running my computer, then on the right I click stop and once it has stoped I click start. <p> 
+<img width="989" height="387" alt="20  stop and start iis" src="https://github.com/user-attachments/assets/ebc8c6ca-c999-48ea-90f9-c912aaf3c170" />
 
+# Step 9, Step 3; "Install osTicket" 
+- First I go inside the osTicket files, I unzip the osTicket folder which is inside the files, to do that I right click to extract, once it is extracted I copy the upload folder into the wwwroot folder, then the c folder, then Inetpub, wwwroot, I open another file explorer to upload folder drag it into the wwwroot and rename it to exactly "osTicket" 
+<img width="680" height="490" alt="21  extracting osticket " src="https://github.com/user-attachments/assets/58216272-df59-4d74-b8d3-8c31f2a69ec9" />
+<img width="1138" height="562" alt="22  upload folder into wwwroot folder" src="https://github.com/user-attachments/assets/983167d9-5590-4018-a665-6252b295817e" />
+<img width="429" height="281" alt="23  rename uplaod folder" src="https://github.com/user-attachments/assets/d0dd98e9-1cec-4678-a026-d7aed05419f7" />
 
 
