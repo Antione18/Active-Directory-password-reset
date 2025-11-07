@@ -70,3 +70,19 @@
 - First I go to File explorer, C folder, Inetpub, wwroot folder, osTicket, include, and the scroll to ost-sampleconfig and rename it to ost-config.php. next to assign oermission I click on it, go to properties, security, advanced, disable inheritance, then add new permissions, type everyone add apply. 
 <img width="586" height="232" alt="27  name change" src="https://github.com/user-attachments/assets/cf6b9f66-258c-4df7-93f7-565e0f394074" />
 <img width="591" height="513" alt="28  osTicket permissions" src="https://github.com/user-attachments/assets/77243f54-3649-4dbc-863e-f24a9ac0346a" />
+
+# Step 9, Step 6: setting up osTicket in browser
+- Now I am filling out the osTicket Installation page.
+  <img width="831" height="601" alt="29   setting up osticket browser" src="https://github.com/user-attachments/assets/1baa83f1-3c75-4afe-b1ce-c1dae78daf3a" />
+
+# Step 9, Step 7: HiedeSQL 
+- I go to the osTicket files, right click hiedesql,and install
+<img width="823" height="603" alt="30  this heidesql" src="https://github.com/user-attachments/assets/ef535bd6-d090-4b42-9403-90bea7b9796e" />
+<img width="806" height="547" alt="31  " src="https://github.com/user-attachments/assets/c419a3ed-12d7-43e9-b545-b6c310320476" />
+
+# Step 9) Step 8: creating data base called exactly osTicket and finish
+- Firs hiedesql right click the dolphin image, make new, type osTicket.
+<img width="625" height="635" alt="33  hide sql " src="https://github.com/user-attachments/assets/52d86fa4-920b-4503-a568-1091490609b6" />
+<img width="403" height="323" alt="34  " src="https://github.com/user-attachments/assets/56b08efc-53f7-4f59-826a-9a5b02216fd6" />
+<img width="669" height="444" alt="35  finishing os browserr" src="https://github.com/user-attachments/assets/2f9343c0-6bf7-403e-b24a-62f71571da93" />
+<img width="1023" height="666" alt="35  finish" src="https://github.com/user-attachments/assets/55be7aba-1428-46ba-832a-2dd7284c0da1" />
