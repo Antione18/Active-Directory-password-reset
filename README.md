@@ -33,7 +33,8 @@
 
 # Step 7: Install VCredist.x86 
 - I double click the VC file and install.  
-<img width="676" height="432" alt="12  installing VC" src="https://github.com/user-atttachments/assets/dc86130a-ec91-4aa6-95e5-caeccc95cdec" />
+<img width="676" height="432" alt="12  installing VC" src="https://github.com/user-attachments/assets/2ea560eb-3610-4ca1-948d-d1dd822431d9" />
+
 
 # Step 8: Install MySQL5.5.62
 - I double click the MySQL5.5.62 files, install them, then I do the configuration of wizard and make the password.
