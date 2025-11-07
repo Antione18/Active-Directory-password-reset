@@ -66,5 +66,7 @@
 <img width="610" height="505" alt="25  enableing things" src="https://github.com/user-attachments/assets/fd6924f3-fbc7-4190-8f52-88df73f1f065" />
 <img width="478" height="483" alt="26  requirments changes" src="https://github.com/user-attachments/assets/2e81c297-b1d9-4c75-a441-d4cf589ee665" />
 
-# Step 9, Step 5: renaming osTicket-Config-PHP
-- First I go to File explorer, C folder, Inetpub, wwroot folder, osTicket, include, and the scroll to ost-sampleconfig and rename it to ost-config.php. 
+# Step 9, Step 5: renaming to osTicket-Config-PHP and assinging permission for osTicket to access it
+- First I go to File explorer, C folder, Inetpub, wwroot folder, osTicket, include, and the scroll to ost-sampleconfig and rename it to ost-config.php. next to assign oermission I click on it, go to properties, security, advanced, disable inheritance, then add new permissions, type everyone add apply. 
+<img width="586" height="232" alt="27  name change" src="https://github.com/user-attachments/assets/cf6b9f66-258c-4df7-93f7-565e0f394074" />
+<img width="591" height="513" alt="28  osTicket permissions" src="https://github.com/user-attachments/assets/77243f54-3649-4dbc-863e-f24a9ac0346a" />
